@@ -60,7 +60,7 @@ Next, clone **your fork** using the `git clone` command. This will create a copy
 **Note**: Replace `YourGitHubUsername` with your _actual_ GitHub username.
 
 ```console
-git clone https://github.com/YourGitHubUsername/exercises-git-pull-request.git
+git clone https://github.com/YourGitHubUsername/pull-request-exercise.git
 ```
 
 This will create a directory named `exercises-git-pull-request` inside the current working directory. Enter the directory with the following command:
